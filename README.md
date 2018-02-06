@@ -49,7 +49,7 @@ try{
 
 Resultado:
 
-```php
+```
 Tentando pegar 1º conexão do Pool e buscando todos as empresas cadastradas
 stdClass Object
 (
